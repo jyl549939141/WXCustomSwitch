@@ -8,7 +8,7 @@
       <template is="switch" data="{{isOn: item.isOn, id:item.id, onTintColor:item.color}}"/>
     </view>
   </view>
-
+reyrytryr
   <text class="title">微信switch</text>
   <view class="switch-container">  
     <switch/>454
